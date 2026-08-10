@@ -2,7 +2,7 @@
 
 CS:GO 饰品行情 MCP server——把 [CSQAQ API](https://api.csqaq.com) 封装成 MCP 工具，供 AI 助手直接查询 BUFF / 悠悠有品 / Steam / C5 / IGXE / ECO 七平台实时价格、在售、涨跌、存世量。
 
-> 模板参考：`bilibili-mcp-server`（mimo 智能体 2026-08-02 安装）。2026-08-03 由用户与 QA Agent 一起开发，作为 AI 学习里程碑「自己写第一个 MCP server」。
+> 作为 AI 学习里程碑「自己写第一个 MCP server」。
 
 ## 提供的工具
 
