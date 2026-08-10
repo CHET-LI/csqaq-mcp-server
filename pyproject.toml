@@ -1,0 +1,10 @@
+[project]
+name = "csqaq-mcp-server"
+version = "0.1.0"
+description = "CSQAQ CS:GO 饰品行情 MCP server（7 平台价格/在售/涨跌）"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp[cli]>=1.4.1",
+    "requests>=2.32.3",
+]
