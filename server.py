@@ -5,8 +5,6 @@
 - get_good:       查询饰品多平台价格 / 在售 / 涨跌 / 存世量详情
 - get_chart:      查询价格 / 成交量图表数据
 - get_hot_series: 热门饰品系列列表
-
-模板参考: bilibili-mcp-server（mimo 智能体 2026-08-02 安装，FastMCP stdio 模式）
 """
 
 import os
